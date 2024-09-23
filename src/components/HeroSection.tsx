@@ -15,7 +15,7 @@ export function HeroSection(){
                                         src="https://cdn-icons-png.flaticon.com/512/8019/8019048.png"
                                         height="300"
                                         width="300"
-                                        className="object-contain mx-auto mt-20 mb-10 min-[320px]:w-[12rem] lg:w-[20rem]"
+                                        className="object-contain mx-auto md:mt-20 mb-10 min-[320px]:w-[12rem] lg:w-[20rem]"
                                     />
             <h1 className="mt-20 mt-0 text-4xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400">Master the art of music</h1>
             <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">
