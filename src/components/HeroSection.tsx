@@ -1,5 +1,4 @@
 import Link from "next/link";
-import { motion } from "framer-motion";
 import { Button } from "./ui/moving-border";
 import { BackgroundLines } from "./ui/background-lines";
 import Image from "next/image";
