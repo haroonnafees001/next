@@ -8,7 +8,7 @@
         "price": 99.99,
         "instructor": "John Doe",
         "isFeatured": true,
-        "image": "/courses/guitar.jpg" 
+        "image": "https://img.freepik.com/free-photo/headstock-classical-fingerboard-wood-fretboard_1172-289.jpg"
       },
       {
         "id": 2,
@@ -18,8 +18,7 @@
         "price": 109.99,
         "instructor": "Jane Smith",
         "isFeatured": true,
-        "image": "/courses/piano.jpg" 
-      },
+        "image": "https://img.freepik.com/free-photo/headstock-classical-fingerboard-wood-fretboard_1172-289.jpg"      },
       {
         "id": 3,
         "title": "Advanced Vocal Techniques",
@@ -28,7 +27,7 @@
         "price": 119.99,
         "instructor": "Emily Johnson",
         "isFeatured": true,
-        "image": "/courses/vocalist.jpg" 
+        "image": "https://img.freepik.com/free-photo/headstock-classical-fingerboard-wood-fretboard_1172-289.jpg" 
       },
       {
         "id": 4,
@@ -38,7 +37,7 @@
         "price": 129.99,
         "instructor": "Mike Brown",
         "isFeatured": false,
-        "image": "/courses/drumming.jpg"
+        "image": "https://img.freepik.com/free-photo/headstock-classical-fingerboard-wood-fretboard_1172-289.jpg"
       },
       {
         "id": 5,
@@ -48,8 +47,7 @@
         "price": 139.99,
         "instructor": "Chris Davis",
         "isFeatured": false,
-        "image": "/courses/jazz.jpg"
-      },
+        "image": "https://img.freepik.com/free-photo/headstock-classical-fingerboard-wood-fretboard_1172-289.jpg"    },
       {
         "id": 6,
         "title": "Music Production Fundamentals",
@@ -58,7 +56,7 @@
         "price": 149.99,
         "instructor": "Alex Wilson",
         "isFeatured": true,
-        "image": "/courses/music-prod.jpg"
+        "image": "https://img.freepik.com/free-photo/headstock-classical-fingerboard-wood-fretboard_1172-289.jpgpg"
       },
       {
         "id": 7,
@@ -68,7 +66,7 @@
         "price": 159.99,
         "instructor": "Samantha Miller",
         "isFeatured": false,
-        "image": "/courses/song-writing.jpg"
+        "image": "https://img.freepik.com/free-photo/headstock-classical-fingerboard-wood-fretboard_1172-289.jpg.jpg"
       },
       {
         "id": 8,
@@ -78,7 +76,7 @@
         "price": 169.99,
         "instructor": "Luke Harris",
         "isFeatured": true,
-        "image": "/courses/music-prod.jpg"
+        "image": "https://img.freepik.com/free-photo/headstock-classical-fingerboard-wood-fretboard_1172-289.jpgpg"
       },
       {
         "id": 9,
@@ -88,7 +86,7 @@
         "price": 179.99,
         "instructor": "Grace Lee",
         "isFeatured": false,
-        "image": "/courses/classical-music.jpg"
+        "image": "https://img.freepik.com/free-photo/headstock-classical-fingerboard-wood-fretboard_1172-289.jpgsic.jpg"
       },
       {
         "id": 10,
@@ -98,8 +96,7 @@
         "price": 189.99,
         "instructor": "Ethan Moore",
         "isFeatured": true,
-        "image": "/courses/blues.jpg"
-      }
+        "image": "https://img.freepik.com/free-photo/headstock-classical-fingerboard-wood-fretboard_1172-289.jpg"     }
     ]
   }
   
