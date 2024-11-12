@@ -80,7 +80,7 @@ function Footer() {
           <p>Phone: (123) 333-4443</p>
         </div>
         </div>
-        <p className="text-center text-xs pt-8">© 2022 Music School. All rights reserved.</p>
+        <p className="text-center text-xs pt-8">© 2024 Music Mania. All rights reserved.</p>
     </footer>
   )
 }
